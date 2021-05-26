@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Galacticon</string>
+  <string name="api_key">klS0opPZfL2JORk8DAQiQVoMUwJFK9LbgbwMvEfi</string>
+  <!--
+  Account Email: jorgeandresdavidcardona@gmail.com
+  Account ID: b9a0b878-5371-47cd-8f77-2936e1e35cdd
+  -->
+
+  <string name="title_activity_fullscreen">FullscreenActivity</string>
+  <string name="change_layout_manager">Change Layout</string>
+</resources>
